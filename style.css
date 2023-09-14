@@ -1,0 +1,26 @@
+.grey_background_1 {
+    background-color: rgb(172, 171, 171);
+}
+
+.header {}
+
+.header li {
+    display: inline;
+    list-style-type: none;
+}
+
+.intro {
+    /* background-color: burlywood; */
+}
+
+.services {
+    background-color: burlywood;
+}
+
+.footer {
+    background-color: rgb(172, 171, 171);
+}
+
+@media (max-width: 600px) {
+    .header {}
+}
